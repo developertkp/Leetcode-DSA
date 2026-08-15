@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/developertkp/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/developertkp/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/developertkp/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/developertkp/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/developertkp/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/developertkp/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
