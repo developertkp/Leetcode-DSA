@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/developertkp/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/developertkp/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/developertkp/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/developertkp/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/developertkp/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/developertkp/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/developertkp/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/developertkp/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
@@ -70,4 +72,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/developertkp/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
