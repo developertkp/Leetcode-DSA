@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/developertkp/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/developertkp/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/developertkp/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/developertkp/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/developertkp/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/developertkp/Leetcode-DSA/tree/master/0268-missing-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/developertkp/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
