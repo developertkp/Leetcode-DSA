@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/developertkp/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/developertkp/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/developertkp/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/developertkp/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/developertkp/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/developertkp/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/developertkp/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/developertkp/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/developertkp/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/developertkp/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/developertkp/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/developertkp/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/developertkp/Leetcode-DSA/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/developertkp/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
